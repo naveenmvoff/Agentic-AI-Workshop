@@ -1,0 +1,62 @@
+# === Python Bytecode ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# === Virtual Environment ===
+env/
+venv/
+.venv/
+AgenticAIVenv/
+
+# === Jupyter/IPython ===
+.ipynb_checkpoints/
+*.ipynb
+
+# === VS Code ===
+.vscode/
+*.code-workspace
+
+# === PyCharm ===
+.idea/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Logs & Temp ===
+*.log
+*.tmp
+*.bak
+
+# === Environment & Config ===
+.env
+.env.*
+*.secret
+apikey.txt
+
+# === LangChain / Cache ===
+.cache/
+langchain.db
+output/
+data/
+rag_index/
+docs/**/__pycache__/
+
+# === Google / Gemini ===
+token.json
+.google-credentials/
+credentials.json
+
+# === Compiled / Build ===
+build/
+dist/
+*.egg-info/
+
+# === Misc ===
+*.sqlite
+*.db
+*.pkl
+*.pt
+*.ckpt
+*.h5

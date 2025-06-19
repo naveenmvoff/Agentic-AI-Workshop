@@ -1,0 +1,36 @@
+# Mobile-First UX Design Guidelines
+
+1. Responsive Layout:
+- Use flexbox or grid for dynamic layouts.
+- Prioritize vertical stacking for mobile screens.
+- Apply media queries for screen widths < 768px.
+
+2. Visual Hierarchy:
+- Use large, bold headings to capture attention.
+- Limit font styles to 2-3 variants.
+- Use whitespace to separate sections clearly.
+
+3. CTA Design:
+- Buttons should be above the fold on mobile.
+- Use contrasting colors for primary CTAs.
+- Ensure button size >44px for touch accessibility.
+
+4. Performance:
+- Minimize heavy CSS or JavaScript.
+- Use image placeholders to improve perceived speed.
+
+5. Navigation:
+- Use sticky nav or hamburger menu on mobile.
+- Limit primary nav options to 3-5 links.
+
+6. Color & Accessibility:
+- Ensure contrast ratio is WCAG AA compliant.
+- Avoid color-only indicators; use icons or text too.
+
+7. Forms:
+- Use single-column layout for forms.
+- Auto-capitalize, auto-complete, and validate inputs.
+
+8. Trust Indicators:
+- Include testimonials or logos of trusted partners.
+- Display security and privacy badges if applicable.

@@ -1,0 +1,28 @@
+# Competitor Analysis: Smart Note Apps
+
+## Competitor 1: Otter.ai
+- Focuses on team meetings & collaboration
+- Landing page is clean with blue/white tones
+- Strong CTA: "Start for Free"
+- Features in simple icon+text layout
+- Pricing page is well-structured with monthly/yearly toggle
+
+## Competitor 2: Notion AI
+- Modern, animated hero section
+- Interactive demos embedded in page
+- CTA above and below the fold
+- Trust badges: featured in Forbes, TechCrunch, etc.
+
+## Competitor 3: Whisper Notes (hypothetical)
+- Targeted at students only
+- Persona-focused copy: “Ace your lectures”
+- Simple 3-step usage section
+- Comparison grid against other tools
+- Emphasis on privacy: “Your data stays yours”
+
+## Key Takeaways:
+- Emotional headlines perform well ("Never miss a lecture")
+- Showcasing benefits > listing features
+- Multi-variant CTAs help convert across personas
+- Light color schemes with vivid accents increase engagement
+- Persona-driven visuals (students, laptops, classroom icons) are effective

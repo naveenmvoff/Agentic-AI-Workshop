@@ -1,0 +1,32 @@
+# Brand Guidelines for "NoteWise AI"
+
+## Brand Tone:
+- Friendly, helpful, slightly witty
+- Avoid technical jargon, use human-like phrasing
+- Emphasize productivity, ease, and empowerment
+
+## Color Palette:
+- Primary: #556BFF (Blue) – Trust & Intelligence
+- Accent: #F4BE6C (Soft Orange) – Warmth & Attention
+- Background: #F9FAFB (Light Gray)
+- Text: #1F2937 (Charcoal)
+
+## Fonts:
+- Heading: "Poppins", sans-serif
+- Body: "Inter", sans-serif
+
+## CTA Examples:
+- "Start Your Free Trial"
+- "Try NoteWise – It’s Free"
+- "Experience Smart Summaries Today"
+- "Record. Transcribe. Ace It."
+
+## Logo Usage:
+- Always center the logo in the header.
+- Provide alt text: "NoteWise AI Logo"
+- Minimum logo size: 48x48px
+
+## Voice & Personality:
+- Use second-person ("you") perspective.
+- Start with benefits: "Never miss a word again."
+- Keep sentences short and punchy.
