@@ -1,0 +1,29 @@
+Playful Brand:
+
+Tone: Friendly, casual
+
+Colors: Pastels, soft hues (light pink, mint green)
+
+Fonts: Rounded sans-serif (e.g., Poppins, Quicksand)
+
+Layout: Lots of white space, emojis/icons, curved corners
+
+Professional Brand:
+
+Tone: Confident, reliable
+
+Colors: Navy, maroon, white, charcoal
+
+Fonts: Serif or clean sans-serif (e.g., Roboto, Lora)
+
+Layout: Grid-based, minimal animations, clear hierarchy
+
+Luxury Brand:
+
+Tone: Exclusive, elegant
+
+Colors: Black, gold, ivory, deep blue
+
+Fonts: High-contrast serif (e.g., Playfair Display)
+
+Layout: Spacious, focused on typography and imagery

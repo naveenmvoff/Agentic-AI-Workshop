@@ -1,0 +1,58 @@
+Named Colors (Descriptive to CSS Mapping):
+
+Blackish Pink → #880e4f (Dark pink/magenta)
+
+Neon Lime → #ccff00 or #bfff00
+
+Sky Blue → #87ceeb
+
+Burnt Orange → #cc5500
+
+Icy Steel Blue → #4682b4
+
+Electric Purple → #bf00ff
+
+Golden Yellow → #ffdf00
+
+Pale Mint → #dbffe5
+
+Earth Brown → #4e342e
+
+Lavender Mist → #e6e6fa
+
+Coral Red → #ff4040
+
+Dark Forest Green → #014421
+
+Accessible Pairings (Text ↔ Background):
+
+color: #ffffff on background-color: #1a1a1a
+
+color: #000000 on background-color: #e0f7fa
+
+color: #212121 on background-color: #fce4ec
+
+color: #f5f5f5 on background-color: #4caf50
+
+Variable-Driven Color Definitions:
+
+css
+Copy
+Edit
+:root {
+  --primary-color: #6200ea;
+  --secondary-color: #03dac6;
+  --highlight-color: #ffb300;
+  --error-color: #b00020;
+  --light-surface: #f5f5f5;
+  --dark-surface: #121212;
+}
+Mood-Based Suggestions:
+
+Calm → pastel blues, mints, lavenders
+
+Energetic → neons, saturated yellows, oranges
+
+Elegant → deep purples, navy, charcoal
+
+Playful → coral, cyan, lime, hot pink

@@ -1,0 +1,31 @@
+Shoe Store:
+
+Focus on large images with neutral backgrounds.
+
+Use bold colors (black, red, navy) and clean grids.
+
+Highlight product features with badges (e.g., "NEW", "TRENDING").
+
+Water Bottle Store:
+
+Clean, fresh look using maroon, aqua, white, or beige.
+
+Icons for features (BPA free, eco-friendly, cold/hot).
+
+Section for sustainability story or testimonials.
+
+Clothing Brand:
+
+Use fashion-forward fonts and high-res banners.
+
+Earth tones or bold seasonal colors.
+
+Category filters, lifestyle shots, lookbooks.
+
+Tech Products:
+
+Minimal interface, modern fonts, high contrast.
+
+Callouts for specs, use dark/light toggle themes.
+
+Emphasis on functionality and innovation.

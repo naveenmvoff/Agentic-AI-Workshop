@@ -1,0 +1,20 @@
+# UI & UX Best Practices
+
+## Layout & Spacing
+- Employ 8‑pixel base spacing: 8, 16, 24, 32px for padding/margins to create visual harmony.
+- Utilize modular grid systems: 12-column grid for content and responsive adjustments.
+- Ensure consistent touch targets ≥44×44px for accessible tap zones.
+
+## Typography & Readability
+- Maintain a minimum 4.5:1 contrast ratio (WCAG AA).
+- Use semantic headings (h1–h3) with decreasing font sizes for logical hierarchy.
+- Avoid body font sizes <14px; for mobile, 16px+. Text left-aligned for readability.
+
+## Interaction
+- Provide visible focus states, hover effects, and CTR animations.
+- Keep animations simple: duration <200ms, no motion-triggered seizures.
+
+## Accessibility
+- Use aria-label for non-text links/buttons.
+- Avoid color-only indicators; use text + icons.
+- Offer skip-to-main links in HTML for navigation.

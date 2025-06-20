@@ -1,0 +1,35 @@
+Valid CSS Properties (CamelCase):
+
+color
+
+backgroundColor
+
+fontWeight
+
+fontSize
+
+padding / margin
+
+textAlign
+
+borderRadius
+
+boxShadow
+
+lineHeight
+
+CSS Values:
+
+fontWeight: "normal", "bold", "lighter"
+
+fontSize: "14px", "1.2em", "1.5rem"
+
+textAlign: "left", "center", "right"
+
+Fonts:
+
+sans-serif: modern, tech-oriented
+
+serif: traditional, formal
+
+monospace: code or tech-style UI
