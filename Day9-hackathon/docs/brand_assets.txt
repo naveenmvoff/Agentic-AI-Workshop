@@ -8,7 +8,7 @@
 ## Color Palette:
 - Primary: #556BFF (Blue) – Trust & Intelligence
 - Accent: #F4BE6C (Soft Orange) – Warmth & Attention
-- Background: #F9FAFB (Light Gray)
+- Background: #F9FAFB (Light gray)
 - Text: #1F2937 (Charcoal)
 
 ## Fonts:
