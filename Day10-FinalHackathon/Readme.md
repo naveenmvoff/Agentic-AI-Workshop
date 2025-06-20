@@ -74,5 +74,32 @@ https://drive.google.com/file/d/1Km2BCSOtB0Z7VfoBLu1i4SbaKbn6LXeu/view?usp=shari
 - Plugin support for custom tools
 
 ---
+## TO Run the application 
+```bash
+git clone https://github.com/naveenmvoff/Agentic-AI-Workshop.git
+```
+### client 
+
+```bash
+cd Day10-FinalHackathon/aiconversationalweb
+
+npm i
+
+npm run dev
+
+open the url and access the client side
+```
+
+### server
+
+```
+cd Day10-FinalHackathon/python-backend-for-ai
+
+pip install -r requirements.txt
+
+python main.py
+```
+
+
 
 © 2025 – Agentic AI Workshop Final Hackathon
