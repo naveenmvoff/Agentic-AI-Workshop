@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-To build an **agentic AI system** that allows users to **edit websites by issuing natural language commands**. The system leverages **Toolformer-style routing** where each user instruction is interpreted and directed to the appropriate editing agent, ensuring modular and explainable updates.
+To build an **agentic AI system** that allows users to **edit websites by using natural language commands**. where each user instruction is interpreted and directed to the appropriate editing agent, ensuring modular and explainable updates.
 
 ---
 
@@ -15,7 +15,7 @@ To build an **agentic AI system** that allows users to **edit websites by issuin
   - Apply the changes
   - Manage edit history
 - Enable **real-time updates** to editable blocks (HTML/CSS/JS) within a browser interface.
-- Support **undo/redo** actions.
+- Support **undo** actions.
 - Maintain **context-awareness** across sessions.
 - Incorporate **RAG** (Retrieval-Augmented Generation) to provide policy-compliant feedback or clarify ambiguous instructions.
 
@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1Km2BCSOtB0Z7VfoBLu1i4SbaKbn6LXeu/view?usp=shari
 ## 🗃️ System Architecture Components
 
 ### 🖥️ Client
-- **Editor UI** (React-based)
+- **Editor UI** (next.js-based)
 - Accepts user input and displays real-time changes
 
 ### ⚡ FastAPI Server
@@ -39,7 +39,7 @@ https://drive.google.com/file/d/1Km2BCSOtB0Z7VfoBLu1i4SbaKbn6LXeu/view?usp=shari
 - NL Parser Agent
 - Tool Router Agent (RAG-enabled)
 - Change Executor Agent
-- Undo/Redo Manager
+- Undo Manager
 
 ### 📚 Data Storage
 - **Knowledge Store** (for RAG lookups and policy)
@@ -53,17 +53,17 @@ https://drive.google.com/file/d/1Km2BCSOtB0Z7VfoBLu1i4SbaKbn6LXeu/view?usp=shari
 2. FastAPI sends it to **NL Parser Agent**.
 3. **Tool Router Agent** (with RAG) chooses the right tool.
 4. **Change Executor Agent** applies the changes to the site.
-5. **Undo/Redo Manager** logs changes and allows reversal.
+5. **Undo Manager** logs changes and allows reversal.
 6. Changes are shown live and session state is saved.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Frontend**: React.js
+- **Frontend**: Next.js, Typescript, Tailwind CSS
 - **Backend**: Python (FastAPI)
 - **Agents**: Toolformer-style modular AI agents
-- **Storage**: In-memory / DB for sessions and RAG corpus
+- **Storage**: In-memory for RAG
 
 ---
 
